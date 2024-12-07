@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "Seinlus Nyongesa",
-	description: "This is a portfolio website for seinlus nyongesa",
+	title: "Digital weapon",
+	description: "A sample project build with Nextjs and TailwindCSS",
 };
 
 export default function RootLayout({
